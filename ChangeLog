@@ -1,3 +1,7 @@
+2011-02-04  Sonja Scholz <ss@cabag.ch>
+
+	* raised version to 2.0.1
+
 2011-01-28  Christopher Stelmaszyk  <chrissitopher@gmx.de>
 
 	* Fixed bug #9578: Class tx_simulatebe_pi1 should extend t3lib_userAuth (thanks to Björn Pedersen)
